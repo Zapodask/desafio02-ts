@@ -1,6 +1,6 @@
 import './Header.css'
 
-export const Header  = () => {
+export const Header = () => {
   return(
     <div className='header'>
       Dio Bank
